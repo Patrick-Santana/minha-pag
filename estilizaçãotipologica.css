@@ -1,0 +1,14 @@
+h1{
+	color:#9400D3;
+	font-family: arial;
+	letter-spacing: -0.8px;
+	text-transform: capitalize;
+	text-shadow: 1px 1px blue;
+}
+
+p{
+	width: 750px;
+	font-family: times;
+	text-align: justify;
+	font-size: 18px;
+}
