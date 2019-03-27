@@ -1,0 +1,53 @@
+/**
+ *
+ * Instituto Federal de Educação, Ciência e Tecnologia - IFPE
+ * Curso: Informática para Internet
+ * Disciplina: Lógica de Programação e Estrutura de Dados
+ * Professor: Allan Lima - allan.lima@igarassu.ifpe.edu.br
+ * 
+ * Código de Domínio Público, sinta-se livre para usá-lo, modificá-lo e redistribuí-lo.
+ *
+ *definir as variaveis para execução do programa
+ */
+
+ var segunda="";
+ var terça="";
+ var quarta="";
+ var quinta="";
+ var sexta="";
+
+ if ("segunda==segunda") {
+ 	   console.log("segunda=ingles e redes"); // por 10;
+ }
+
+else {
+	console.log("terça=lógica, redes e portugues");
+}
+
+if ("terça==terça") {
+	console.log("terça=lógica, redes e portugues");
+}
+
+else {
+	console.log("quarta=matemática e redes");
+}
+
+if ("quarta==quarta") {
+	console.log("quarta=matemática e redes");
+}
+
+else {
+	console.log("quinta=fundamentos e proifpe");
+}
+
+if ("quinta==quinta") {
+	console.log("quinta=fundamentos e ingles");
+}
+
+else{
+	console.log("sexta=fundamentos e proifpe");
+}
+
+if ("sexta=sexta") {
+	console.log("sexta=fundamentos e proifpe");
+}
