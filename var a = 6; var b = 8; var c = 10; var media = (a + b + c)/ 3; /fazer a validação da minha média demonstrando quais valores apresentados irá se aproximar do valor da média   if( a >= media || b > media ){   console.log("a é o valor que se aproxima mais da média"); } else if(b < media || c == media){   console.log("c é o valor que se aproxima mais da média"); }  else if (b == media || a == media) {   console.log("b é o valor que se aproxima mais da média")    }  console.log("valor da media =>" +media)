@@ -1,0 +1,20 @@
+var a=6;
+var b=8;
+var c=10;
+
+var media = (a + b + c)/3;
+
+//fazer a validação da minha média demonstrando quais valores apresentados irá se aproximar do valor da média 
+
+if( a >= media || b > media ){
+  console.log("a é o valor que se aproxima mais da média");
+}
+else if(b < media || c == media){
+  console.log("c é o valor que se aproxima mais da média");
+}
+
+else if (b == media || a == media) {
+  console.log("b é o valor que se aproxima mais da média")   
+}
+
+console.log("valor da media =>" +media)
