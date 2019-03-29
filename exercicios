@@ -1,0 +1,15 @@
+var a= 12;
+var b= 9;
+
+var resultado= a/b;
+
+//fazer a verificação se o resultado da minha divisão é maior que a 
+
+if (resultado > a){
+  console.log("resultado é maior que a")
+} 
+else if (resultado < a) {
+  console.log("resultado é menor que a")
+}
+
+console.log(resultado)
