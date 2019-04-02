@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Document</title>
+<link rel="stylesheet" type="text/css" href="tabela.css">
+
+</head>
+<!..Como realizar uma <tabela-->
+<body>
+<table border="1">
+  <tr>
+    <th>Nome</th>
+    <th>Sobrenome</th>
+    <th>último nome</th>
+    <th>Idade</th>
+  </tr>
+
+  <tr>
+	  <td>Patrick</td>
+	  <td>Vinicius</td>
+	  <td>Santana</td>
+	  <td>17 anos</td>
+  </tr>	
+</table>
+</body>
+</html>
