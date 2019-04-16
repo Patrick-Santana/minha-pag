@@ -1,0 +1,30 @@
+<html>
+   <head>
+      <meta charset="utf-8">
+      <title>Genius</title>
+      <link rel="stylesheet" href="ba.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+   </head>
+   <body class="container">      
+
+     <!--<embed src="Alan Walker, Sabrina Carpenter  Farruko  - On My Way.mp3" width="0" height="0" hidden="true" loop="true" autostart="true" volume="75"></embed> -->
+
+      <script>
+            /* o for vai ter que retornar 684 quadrados*/     
+            for(let i = 0; i < 665; i++ ) {
+                 
+                  document.write(`<div class="quadrado">  </div>`)
+            }
+
+
+      </script>
+
+      <div></div>
+     <a href="Jogar.html"><h1 class= "estilo1" >Jogar</h1></a>
+     <a href="sobre.html"><h2 class= "estilo2">Como Jogar</h2></a>
+     <a href="História.html"><h3 class= "estilo3">História</h3></a>
+     <a href="Contatos.html"><h4 class="estilo4">Contatos </h4> </a>
+     </div>
+   </body>
+</html>
