@@ -1,0 +1,132 @@
+body{
+  background: black;
+}
+
+@keyframes green{
+   0%
+   {
+      background-color: rgb(0,0,255); /*blue*/
+   }
+   25%
+   {
+      background-color: #FF0000; /*red*/
+   }
+   50%
+   {
+      background-color: rgb(0,255,0); /*verde*/
+   }
+   75%
+   {
+      background-color: rgb(255,255,0); /*yellow*/
+   }
+   100%
+   {
+      background-color: blue;
+   }
+}
+
+div.quadrado {
+   height: 21px;
+   width: 22px;
+   background-color: green;
+   border-radius: 5%; 
+   left: 10px;
+   top:20px;
+   animation: green 5s linear infinite;
+   display: inline-block;
+   margin: 5px;
+   padding: 10px;
+}
+
+
+h1{
+  text-decoration: none;
+  font-family: 'Quicksand', sans-serif;   
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  font-size: 6em;
+  color: #fff;
+  text-shadow: 0 0 20px #ff005b;
+  
+}
+
+
+h2{
+  text-decoration: none;
+  font-family: 'Quicksand', sans-serif;   
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  font-size: 6em;
+  color: #fff;
+  text-shadow: 0 0 20px #ff005b;
+}
+
+
+h3{
+   text-decoration: none;
+  font-family: 'Quicksand', sans-serif;   
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  font-size: 6em;
+  color: #fff;
+  text-shadow: 0 0 20px #ff005b;
+} 
+
+h4{
+   text-decoration: none;
+  font-family: 'Quicksand', sans-serif;   
+  position: absolute;
+  top: 47%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  font-size: 6em;
+  color: #fff;
+  text-shadow: 0 0 20px #ff005b;
+} 
+
+}
+
+/*div.quadrado {
+   height: 21px;
+   width: 22px;
+   background-color: green;
+   border-radius: 5%; 
+   left: 10px;
+   top:20px;
+   animation: green 5s linear infinite;
+   display: inline-block;
+   margin: 5px;
+   padding: 10px;
+}
+
+@keyframes green{
+   0%
+   {
+      background-color: rgb(0,0,255); /*blue*/
+   }
+   25%
+   {
+      background-color: #FF0000; /*red*/
+   }
+   50%
+   {
+      background-color: rgb(0,255,0); /*verde*/
+   }
+   75%
+   {
+      background-color: rgb(255,255,0); /*yellow*/
+   }
+   100%
+   {
+      background-color: blue;
+   }
+}
+
+/*linha 1 de estilização*/
+
